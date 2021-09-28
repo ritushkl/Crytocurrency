@@ -1,4 +1,4 @@
-CryptoCoin
+**CryptoCoin**
 
 Continuously growing technology has introduced us new digital currency ie cryptocurrency
 which uses blockchain technology which give immutability, transparency and decentralization.
@@ -8,7 +8,7 @@ platform be it facebook ,twitter etc so people are have started investing in it 
 have a very high tendency to transform modern day business operation models and it is very
 fluctuating.
 
-PROBLEM statement
+**PROBLEM statement**
 
 Cryptographic price prediction is viewed as an exceptionally difficult task, because of its
 tumultuous and extremely complex nature. One of the main strides to tackle any issue,
@@ -21,7 +21,7 @@ forecasts can help digital currency financial backers towards right contributing
 to expected expanded benefits.
 
 
-MARKET
+**MARKET**
 
 Digital money price prediction can give a leading hand to cryptographic money financial bankers
 for making proper investment choices to secure higher benefits while it can likewise uphold
