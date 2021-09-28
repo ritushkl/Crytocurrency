@@ -27,3 +27,6 @@ Digital money price prediction can give a leading hand to cryptographic money fi
 for making proper investment choices to secure higher benefits while it can likewise uphold
 strategic policy decision-making and financial researchers for concentrating on cryptographic
 money markets conduct.
+
+**Result**
+![Screenshot (90)](https://user-images.githubusercontent.com/91560461/135138646-881cbe38-12df-4a55-a4a4-5c014ed5f3d1.png)
