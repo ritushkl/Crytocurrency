@@ -1,4 +1,4 @@
-**CryptoCoin**
+**CryptoCurrency**
 
 Continuously growing technology has introduced us new digital currency ie cryptocurrency
 which uses blockchain technology which give immutability, transparency and decentralization.
